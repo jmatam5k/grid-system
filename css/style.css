@@ -1,0 +1,110 @@
+header{
+	background-color: #3B3939;
+}
+.menu{
+	color:white;
+	text-decoration: none;
+	font-size: 15px;
+	float: left;
+	margin: 65px 6px;
+	font-family: Arial;
+}
+.logo{
+	margin-left: 20px;
+}
+
+.ultimo{
+	font-size: 30px;
+	color:#363131;
+	font-family: Arial;
+	margin: 30px 0 0 20px;
+	display: inline-block;
+}
+.mas{
+	color:#5262B3;
+	font-size: 15px;
+	display: inline-block;
+	text-decoration: none;
+}
+.titulos{
+	color:#5262B3;
+	font-size: 20px;
+	float: left;
+	margin: 5px 50px 20px 40px;
+	font-family: Arial;
+	text-decoration: none;
+}
+.fotos{
+	width: 85%;
+	margin: 20px 0px 0 20px;
+	border: 3px solid white;
+
+}
+section{
+	background-color: #E8E7E7;
+}
+
+.caratulas{
+	width: 70%;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.col-2{
+	width: 14%;
+}
+.dlc{
+	margin-left: 50px;
+}
+.name{
+	color:#5262B3;
+	margin-left: 10px;
+	text-align: center;
+	height: 30px;
+}
+.dderecha{
+	width: 30%;
+	padding-left: 80px;
+}
+.derecha{
+	display: block;
+	text-align: left;
+	font-size: 20px;
+	font-family: Arial;
+	color: #464242;
+}
+.icono{
+	display: inline-block;
+	font-size: 20px;
+}
+.grande{
+	width: 10%;
+}
+.resalto{
+	color:#5262B3;
+}
+.lineagris{
+	border: 1px solid gray;
+}
+.resena{
+	text-align: left;
+	margin: 40px 20px;
+	color:white;
+	font-size: 15px;
+	background-color: #565658;
+	padding: 20px 10px 20px 10px;
+}
+span{
+	color:#B9B8BA;
+}
+.menuabajo{
+	text-decoration: none;
+	color:#B9B8BA;
+	margin-left: 10px;
+}
+.abc{
+	margin-left: 135px;
+}
+.pie{
+	text-align: center;
+	color:#B9B8BA;
+}
